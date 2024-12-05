@@ -2,6 +2,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freelance_project/auth/sign_up.dart';
+import 'package:freelance_project/dashboard/activities.dart';
+import 'package:freelance_project/dashboard/add_activity_screen.dart';
 import 'package:freelance_project/dashboard/home.dart';
 import 'package:freelance_project/providers/auth_provider.dart';
 
